@@ -1,0 +1,16 @@
+# Static hosting config for $DMVCAT (PRD §7: static hosting, no backend)
+[build]
+  publish = "."
+
+# Long-cache immutable static assets (logos, memes, fonts)
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    X-Frame-Options = "DENY"
+    Referrer-Policy = "no-referrer"
