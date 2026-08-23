@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <rect width="800" height="800" fill="#c7bea3"/>
+  <rect x="60" y="160" width="680" height="480" fill="#5c6b63" rx="10"/>
+  <rect x="60" y="150" width="680" height="14" fill="#46524b"/>
+  <text x="400" y="250" font-family="Courier New, monospace" font-size="34" font-weight="700" fill="#cfd8d0" text-anchor="middle" letter-spacing="6">NOW SERVING</text>
+  <rect x="220" y="300" width="360" height="180" fill="#1c231f" rx="6"/>
+  <text x="400" y="430" font-family="Courier New, monospace" font-size="120" font-weight="700" fill="#ff5b45" text-anchor="middle">A-047</text>
+  <text x="400" y="560" font-family="Courier New, monospace" font-size="40" font-weight="700" fill="#f2ede0" text-anchor="middle" letter-spacing="6">$DMVCAT</text>
+  <text x="400" y="630" font-family="Courier New, monospace" font-size="20" fill="#d8ddd8" text-anchor="middle">If your number was called and you weren't ready, you go to the back.</text>
+</svg>

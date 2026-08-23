@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800">
+  <rect width="800" height="800" fill="#d9d2bd"/>
+  <rect x="80" y="40" width="640" height="60" fill="#5c6b63"/>
+  <text x="400" y="82" font-family="Courier New, monospace" font-size="34" font-weight="700" fill="#f2ede0" text-anchor="middle" letter-spacing="4">DMV — WINDOW 3</text>
+  <rect x="100" y="300" width="600" height="220" fill="#5c6b63" rx="8"/>
+  <rect x="100" y="292" width="600" height="12" fill="#46524b"/>
+  <g transform="rotate(-7 400 410)">
+    <rect x="210" y="345" width="380" height="130" fill="none" stroke="#a83232" stroke-width="10"/>
+    <text x="400" y="400" font-family="Courier New, monospace" font-size="42" font-weight="700" fill="#a83232" text-anchor="middle">DMV CAT</text>
+    <text x="400" y="458" font-family="Courier New, monospace" font-size="58" font-weight="700" fill="#a83232" text-anchor="middle">SAYS NO</text>
+  </g>
+  <text x="400" y="640" font-family="Courier New, monospace" font-size="22" fill="#2b2822" text-anchor="middle">Your application is not being processed at this time.</text>
+  <text x="400" y="676" font-family="Courier New, monospace" font-size="22" fill="#2b2822" text-anchor="middle">Please take a number and revisit the reject pile.</text>
+</svg>
